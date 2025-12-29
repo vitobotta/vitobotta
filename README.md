@@ -40,6 +40,6 @@ Sponsorship helps me dedicate more time to new features, faster issue responses,
 ## Find Me Elsewhere
 
 - 🌐 Connect: [vitobotta.com](https://vitobotta.com/)
-- 🐙 GitHub: [github.com/vitobotta](https://github.com/vitobotta)
+
 
 Thanks for stopping by!
