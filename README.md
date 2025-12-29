@@ -4,11 +4,11 @@ I'm a Lead Platform Architect at Brella, based in Finland. I work on infrastruct
 
 ## What I'm Working On
 
-My main open source project is [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — a CLI tool that creates production-ready Kubernetes clusters on Hetzner Cloud in minutes.
+My main open source project is [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - a CLI tool that creates production-ready Kubernetes clusters on Hetzner Cloud in minutes.
 
 ### Why People Use It
 
-Running Kubernetes doesn't have to be expensive or complicated. With hetzner-k3s, you can spin up a fully configured, highly available cluster for a fraction of what you'd pay on AWS, GCP, or Azure — sometimes up to 80% less.
+Running Kubernetes doesn't have to be expensive or complicated. With hetzner-k3s, you can spin up a fully configured, highly available cluster for a fraction of what you'd pay on AWS, GCP, or Azure - sometimes up to 80% less.
 
 A few things it does:
 
