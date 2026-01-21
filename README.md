@@ -4,6 +4,8 @@ I'm a Lead Platform Architect at Brella, based in Finland. I work on infrastruct
 
 ## What I'm Working On
 
+I am the founder of [SprintPulse](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=profile), an AI-powered retrospective tool that helps teams run more effective retros and continuously improve. Building products that solve real problems is something I truly enjoy.
+
 My main open source project is [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - a CLI tool that creates production-ready Kubernetes clusters on Hetzner Cloud in minutes.
 
 ### Why People Use It
@@ -27,7 +29,7 @@ No Terraform. No management cluster. Just one CLI tool and a simple YAML config.
 - Developers running side projects or homelab clusters
 - Companies looking to cut infrastructure costs without sacrificing reliability
 
-## Support My Work
+## Support My Open Source Work
 
 I maintain hetzner-k3s in my spare time. If it saves you time or money, consider supporting its development:
 
