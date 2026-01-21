@@ -2,9 +2,9 @@
 
 I'm a Lead Platform Architect at Brella, based in Finland. I work on infrastructure, backend systems, and occasionally hunt for security bugs.
 
-## What I'm Working On
+## Side Projects I'm Working On
 
-I am the founder of [SprintPulse](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=profile), an AI-powered retrospective tool that helps teams run more effective retros and continuously improve. Building products that solve real problems is something I truly enjoy.
+Outside of the day job, I am the founder of [SprintPulse](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=profile), an AI-powered retrospective tool that helps teams run more effective retros and continuously improve. Building products that solve real problems is something I truly enjoy.
 
 My main open source project is [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - a CLI tool that creates production-ready Kubernetes clusters on Hetzner Cloud in minutes.
 
