@@ -41,6 +41,24 @@ Self-hosted Rails app for discovering, organising and watching your own media in
 
 ---
 
+## 💎 fly_io — a typed Ruby client for Fly.io
+
+Contract-driven Ruby client for Fly.io's platform APIs: the complete Machines REST API generated from Fly's OpenAPI contract, the network-policy endpoints, the Prometheus compatibility endpoint, and an explicitly isolated client for the unstable GraphQL control plane.
+
+<p>
+  <img src="https://img.shields.io/gem/v/fly_io?style=flat-square&amp;color=e9573f" alt="Gem version">
+  <img src="https://img.shields.io/gem/dt/fly_io?style=flat-square" alt="Total downloads">
+  <img src="https://img.shields.io/badge/ruby-3.2%2B-CC342D?style=flat-square&amp;logo=ruby&amp;logoColor=white" alt="Ruby 3.2+">
+</p>
+
+- **~2,900 downloads** since publishing in August 2026
+- Resource methods return typed models that preserve unknown fields, so a Fly contract change doesn't break your code
+- One runtime dependency (Faraday) — retries, redaction and model coercion are explicit in the gem
+
+[RubyGems](https://rubygems.org/gems/fly_io) · [Source](https://github.com/vitobotta/fly_io) · [API reference](https://github.com/vitobotta/fly_io/blob/main/docs/API.md)
+
+---
+
 ## 🧪 SprintPulse — retrospective tooling for teams (a side business)
 
 <img src="https://sprintpulse.io/icon.png" width="90" align="right" alt="SprintPulse">
